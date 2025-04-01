@@ -1,0 +1,12 @@
+**/*.wav
+**/*.mp3
+**/*.csv
+*.wav
+*.mp3
+*.csv
+tts_dataset/
+preprocess_waves/
+vocal_2/
+vocal_1/
+vocals/
+downloads/
